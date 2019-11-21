@@ -1,0 +1,24 @@
+2019-11-21T16:32:28+00:00 CRITICAL Uncaught Error: Call to undefined function wpb_set_post_views() in C:\xampp\htdocs\quangnguyen\wp-content\themes\doanhnghiep\single.php:22
+Stack trace:
+#0 C:\xampp\htdocs\quangnguyen\wp-includes\template-loader.php(78): include()
+#1 C:\xampp\htdocs\quangnguyen\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\quangnguyen\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\quangnguyen\wp-content\themes\doanhnghiep\single.php on line 22
+
+2019-11-21T17:44:39+00:00 CRITICAL Uncaught Error: Call to undefined function wpb_get_post_views() in C:\xampp\htdocs\quangnguyen\wp-content\themes\doanhnghiep\single.php:23
+Stack trace:
+#0 C:\xampp\htdocs\quangnguyen\wp-includes\template-loader.php(78): include()
+#1 C:\xampp\htdocs\quangnguyen\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\quangnguyen\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\quangnguyen\wp-content\themes\doanhnghiep\single.php on line 23
+
+2019-11-21T17:44:40+00:00 CRITICAL Uncaught Error: Call to undefined function wpb_get_post_views() in C:\xampp\htdocs\quangnguyen\wp-content\themes\doanhnghiep\single.php:23
+Stack trace:
+#0 C:\xampp\htdocs\quangnguyen\wp-includes\template-loader.php(78): include()
+#1 C:\xampp\htdocs\quangnguyen\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\quangnguyen\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\quangnguyen\wp-content\themes\doanhnghiep\single.php on line 23
+
